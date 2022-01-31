@@ -8,5 +8,7 @@ I have tried to provide the solution in Python with suitable i/p examples along 
   
   <li> Intuit  &nbsp;   <a href="https://docs.google.com/document/d/18oi6OlvcL3wYn20Jb9crW7NO4cGkL6vUfTvplNDGkTw/edit"  target=”_blank”>[Questions List]</a> &nbsp;||  <a href="https://github.com/chantya127/6Companies30days/tree/main/Intuit">[Solutions]</a> </li>
   
+  <li> Walmart  &nbsp;   <a href="https://docs.google.com/document/d/1XsyXdufDAK1C6PbC0KNeO95ydbH8qlsGnkyThkS-1bs/edit"  target=”_blank”>[Questions List]</a> &nbsp;||  <a href="https://github.com/chantya127/6Companies30days/tree/main/Walmart">[Solutions]</a> </li>
+  
 </ol>
 
